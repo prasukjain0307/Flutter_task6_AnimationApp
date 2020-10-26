@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
         accentColor: Colors.redAccent,
       ),
       home: FirstPage(),
-    );s
+    );
   }
 
 }
